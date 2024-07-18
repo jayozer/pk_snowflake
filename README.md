@@ -1,3 +1,4 @@
+
 # Building a Snowflake Data Pipeline & LLM Analytics for Google Reviews
 ### A Case Study for Poppy Kids Pediatric Dentistry
 
@@ -8,5 +9,6 @@
 
 #### The Solution: 
 **A Snowflake Data Pipeline that runs weekly & Cortex Analytics**
+![Poppy Kids Pediatric Dentistry](https://uploads-ssl.webflow.com/61d1def902a2a8e195cf22d4/65a535e7e2fc9482439bab3e_svgomg-Website%20Poppy%20Logo%20V16%20transparent%20(450%20x%20150%20px).svg)
 
 
