@@ -256,7 +256,7 @@ SELECT
     rating as pk_total_rating  
 FROM
     analytics.google_reviews_raw
-WHERE review_datetime_utc <= CURRENT_TIMESTAMP();  -- For getting latest data - the time travel option. 
+WHERE review_datetime_utc <= SYSDATE();  -- For getting latest data - the time travel option. 
 
 -- TEST
 -- SHOW TABLES IN POPPY.ANALYTICS;
